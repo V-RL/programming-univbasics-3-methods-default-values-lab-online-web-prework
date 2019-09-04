@@ -1,5 +1,5 @@
 # Your code here
-def meal_choice(veg1, veg2, protein = "meat")
+def meal_choice(veg1, veg2, protein = "tofu")
   veg1 = "broccoli"
   veg2 = "macaroni"
   puts "What a nutritious meal!"
